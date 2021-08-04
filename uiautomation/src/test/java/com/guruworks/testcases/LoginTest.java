@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 
 import com.guruworks.pages.BaseClass;
 import com.guruworks.pages.LoginPage;
-import com.guruworks.utilities.Helper;
 
 import org.openqa.selenium.support.PageFactory;
 
